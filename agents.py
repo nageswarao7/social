@@ -26,7 +26,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-GEMINI_MODEL = "gemini-2.0-flash"
+GEMINI_MODEL = "gemini-2.5-flash"
 APP_NAME = "socialwell_app"
 
 # ─────────────────────────────────────────────────────────────────────────────
